@@ -67,3 +67,27 @@
 #### JavaScript String concat()
 
 ![N|Solid](./img/concat_1.png)
+
+#### JavaScript String trim() Обрезка строки JavaScript()
+
+![N|Solid](./img/trim_1.png)
+
+#### JavaScript String charAt()
+
+> Метод charAt() возвращает символ по указанному индексу (позиции) в строке:
+> ![N|Solid](./img/charAt_1.png)
+
+#### JavaScript String charCodeAt()
+
+> Метод charCodeAt() возвращает юникод символа по указанному индексу в строке:
+
+Метод возвращает код UTF-16 (целое число от 0 до 65535).
+![N|Solid](./img/charCodeAtt_5.png)
+
+#### JavaScript String split() Разделение строки JavaScript()
+
+> text.split(",") // Split on commas Разделить запятыми
+> text.split(" ") // Split on spaces Разделить на пробелы
+> text.split("|") // Split on pipe Разделить на трубу
+> text.split()
+> ![N|Solid](./img/split_1.png)

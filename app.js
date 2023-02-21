@@ -35,6 +35,21 @@
 // let text3 = text1.concat(" ", text2);
 // console.log(text3);
 // metod trim()
-let text1 = "      Hello World!      ";
-let text2 = text1.trim();
-console.log(text2);
+// let text1 = "      Hello World!      ";
+// let text2 = text1.trim();
+// console.log(text2);
+// metod padStart
+// let text = "5";
+// let padded = text.padStart(4, "0");
+// console.log(padded);
+// metod charAt()
+// let text = "HELLO WORLD";
+// let char = text.charAt(0);
+// console.log(char);
+// let text = "HELLO WORLD";
+// let char = text.charCodeAt(0);
+// console.log(char);
+// metod split
+let text = "Hello students Soft Club world";
+let result = text.split(" ");
+console.log(result);
