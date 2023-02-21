@@ -39,6 +39,4 @@
 #### 4 String substr()
 
 > Разница в том, что второй параметр указывает длину извлеченной части.
-> ![N|Solid](./img/substr_1.png)
-> ![N|Solid](./img/substr_2.png)
-> ![N|Solid](./img/substr_3.png)
+> ![N|Solid](./img/substr_1.png) > ![N|Solid](./img/Substr_2.png) > ![N|Solid](./img/Substr_3.png)
