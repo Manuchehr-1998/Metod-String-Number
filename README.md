@@ -55,3 +55,15 @@
 
 > В 2021 году в JavaScript появился строковый метод replaceAll().
 > ![N|Solid](./img/replaceAll_1.png)
+
+#### JavaScript String toUpperCase() Строка JavaScript toUpperCase()
+
+![N|Solid](./img/toUpperCase_1.png)
+
+#### JavaScript String toLowerCase()
+
+![N|Solid](./img/toLowerCase_1.png)
+
+#### JavaScript String concat()
+
+![N|Solid](./img/concat_1.png)
