@@ -91,3 +91,19 @@
 > text.split("|") // Split on pipe Разделить на трубу
 > text.split()
 > ![N|Solid](./img/split_1.png)
+
+#### indexOf a string for "welcome"
+
+> ![N|Solid](./img/indexOf_1.png)
+
+#### includes
+
+![N|Solid](./img/includes_1.png)
+
+#### repeat
+
+![N|Solid](./img/repeat_1.png)
+
+#### toString
+
+![N|Solid](./img/toString_1.png)

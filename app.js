@@ -50,6 +50,21 @@
 // let char = text.charCodeAt(0);
 // console.log(char);
 // metod split
-let text = "Hello students Soft Club world";
-let result = text.split(" ");
-console.log(result);
+// let text = "Hello students Soft Club world";
+// let result = text.split(" ");
+// console.log(result);
+// metod indexOf()
+// let text = "Hello world, welcome to the universe.";
+// let result = text.indexOf("welcome");
+// console.log(result);
+// metod includes
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
+// console.log(fruits.includes("Mango"));
+// metod repeat
+// let text = "Hello world!";
+// let result = text.repeat(2);
+// console.log(result);
+// method toString
+let text = 23;
+let result = text.toString();
+console.log(typeof result);
